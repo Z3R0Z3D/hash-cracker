@@ -29,3 +29,5 @@ cd hash-cracker
 ```
 python3 crack.py
 ```
+
+![Image => ](image.jpg)
