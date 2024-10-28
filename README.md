@@ -19,7 +19,12 @@ Supports :
 # installing : 
 ```
 pip install colorama
+```
+```
 git clone https://github.com/Z3R0Z3D/hash-cracker
+```
+```
 cd hash-cracker
+```
 python3 crack.py
 ```
